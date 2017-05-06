@@ -1,0 +1,8 @@
+Thank you for using SenticDB!
+
+Please acknowledge the authors by citing the following publication
+in any research work or presentation containing results obtained
+in whole or in part through the use of SenticDB:
+
+E. Cambria, S.Poria, R. Bajpai, A. Gelbukh. SenticDB: A comprehensive
+evaluation database for concept-level sentiment analysis. In: CICLing, Cairo (2015)
