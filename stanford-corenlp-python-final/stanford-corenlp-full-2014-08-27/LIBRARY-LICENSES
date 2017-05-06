@@ -1,0 +1,35 @@
+xom-1.2.10.jar
+
+Url: http://www.xom.nu/  OR  http://www.cafeconleche.org/XOM/
+
+License: http://www.xom.nu/license.xhtml
+
+LGPL v2.1
+Gnu lesser general public license
+
+-----------------------------------------
+
+joda-time-2.1.jar
+
+Url: http://joda-time.sourceforge.net/
+
+License: http://joda-time.sourceforge.net/license.html
+
+Apache License 2.0
+
+-----------------------------------------
+
+ejml.jar
+
+URL: http://code.google.com/p/efficient-java-matrix-library/
+
+Gnu lesser general public license
+-----------------------------------------------------------------
+
+
+javax.json.jar
+
+URL: https://json-processing-spec.java.net/
+
+GNU GPLv2 with Classpath Exception
+-----------------------------------------------------------------
